@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Ruda
+- Font Author: Copyright 2019 The Ruda Project Authors (https://github.com/marmonsalve/Ruda-new)
+- Font Source: http://fonts.gstatic.com/s/ruda/v22/k3kKo8YQJOpFgHQ1mQ5VkEbUKaJFsi_-2KiSGg-H.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
